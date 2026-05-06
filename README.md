@@ -1,4 +1,4 @@
-# Trabalho Prático - Semana 6
+# Trabalho Prático - Semana 8
 
 Nessa atividade, como sempre, vamos evoluir o que foi feito na semana anterior. Fique atento para fazer o projeto da semana anterior e dar sequência nessa jornada.
 
@@ -15,11 +15,3 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
